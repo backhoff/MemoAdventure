@@ -1,0 +1,11 @@
+C:\Users\Development\Desktop\MemoAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\Development\Desktop\MemoAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\Development\Desktop\MemoAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\Development\Desktop\MemoAdventure\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\Development\Desktop\MemoAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\Development\Desktop\MemoAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Development\Desktop\MemoAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\Development\Desktop\MemoAdventure\SuperAdventure\obj\Debug\MemoAdventure.MemoAdventure.resources
+C:\Users\Development\Desktop\MemoAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+C:\Users\Development\Desktop\MemoAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\Development\Desktop\MemoAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
